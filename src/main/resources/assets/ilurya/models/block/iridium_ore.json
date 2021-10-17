@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ilurya:blocks/iridium_ore"
+    }
+}

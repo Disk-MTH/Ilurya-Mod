@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ilurya",
+  "name": "Mod Ilurya",
+  "description": "Mod du serveur pvp-faction 1.12.2 Ilurya",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Disk_MTH"],
+  "credits": "Mod créée par Disk_MTH#7625",
+  "logoFile": "assets/ilurya/textures/logo/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

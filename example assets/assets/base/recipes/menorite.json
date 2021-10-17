@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "nomeriamod:menorite_fragment"
+        }
+    },
+    "result": {
+        "item": "nomeriamod:menorite",
+        "count": 1
+    }
+}
